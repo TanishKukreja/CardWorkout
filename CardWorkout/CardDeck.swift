@@ -8,7 +8,8 @@
 import Foundation
 import UIKit
 
-struct Cards{
+struct CardDeck{
+    
     static var allValues = [
         
         UIImage(named: "2H"),
